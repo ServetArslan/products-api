@@ -1,0 +1,110 @@
+{
+    "slogan1": "Cep Telefonlarında",
+    "slogan2": "Sepette %5'e Varan İndirim",
+    "link": "/cep-telefonu-modelleri/",
+    "urun_ad": "iPhone  11 64 GB AKILLI TELEFON SİYAH",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113155_small.jpg",
+    "urun_fiyat": "7.449",
+    "urun_link": "iphone-11-akilli-telefon.html"
+}, {
+    "slogan1": "Notebooklarda",
+    "slogan2": "Sepette %5 İndirim",
+    "link": "/notebook/?stk=true",
+    "urun_ad": "LENOVO IDEAPAD 5 CORE İ5 1135G7 2.4GHZ-8GB-512GB SSD-14",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/123234_small.jpg",
+    "urun_fiyat": "6.699",
+    "urun_link": "lenovo-ideapad-5-core-i5-1135g7-4-2ghz-8gb-512gb-ssd-14-uma-w10.html"
+}, {
+    "slogan1": "Televizyonlarda",
+    "slogan2": "Sepette %7 İndirim",
+    "link": "/televizyon",
+    "urun_ad": "LG 49UN71006 49 124 CM 4K UHD webOS SMART TV,DAHİLİ UYDU ALICI",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/lg-49un71006-gorseli-108430_small.jpg",
+    "urun_fiyat": "5.499",
+    "urun_link": "lg-49un7100-49-124-cm-4k-uhd-webos-smart-tv-dahili-uydu-alici.html"
+},
+
+{
+    "slogan1": "Tabletlerde",
+    "slogan2": "Sepette %5 İndirim",
+    "link": "/tabletler/?stk=true",
+    "urun_ad": "LENOVO SMART TAB M8 MTK HELIO A22 2GHZ-2GB-32GB-BT-8",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/TeoriV2-108967_small.jpg",
+    "urun_fiyat": "999",
+    "urun_link": "lenovo-smart-tab-m8-mtk-helio-a22-2ghz-2gb-32gb-bt-8-cam-android-pie.html",
+    "message": ""
+},
+
+{
+    "slogan1": "Akıllı Saatlerde",
+    "slogan2": "Sepette %8'e varan İndirim",
+    "link": "/akilli-saatler/?stk=true",
+    "urun_ad": "SAMSUNG GALAXY WATCH ACTIVE 2 44 MM MAT SİYAH",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/TeoriV2-104115_small.jpg",
+    "urun_fiyat": "1.899",
+    "urun_link": "samsung-galaxy-watch-active-2-44-mm-mat-siyah.html"
+}, {
+    "slogan1": "Masaüstü Bilgisayarlarda",
+    "slogan2": "Sepette %5 İndirim",
+    "link": "/masaustu-bilgisayarlar/?stk=true",
+    "urun_ad": "LENOVO IDEACENTRE 3 CORE İ5 10400 2.9GHZ 4GB 256GB SSD 2GB NVIDIA GT730 WIN10",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/109543_small.jpg",
+    "urun_fiyat": "5.699",
+    "urun_link": "lenovo-ideacentre-3-core-i5-10400-2-9-ghz-4-gb-256gb-ssd-2-gb-nvidia-gt730-win10.html"
+}, {
+    "slogan1": "Seçili OEM Ürünlerinde",
+    "slogan2": "Süper Fiyatlar",
+    "link": "/oem-urunlerinde-super-fiyatlar",
+    "urun_ad": "COOLER MASTER MASTERBOX MB311L 600W 3x120mm RGB FANLI MINI TOWER KASA",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cooler-master/thumb/TeoriV2-108233-6_small.jpg",
+    "urun_fiyat": "1.146",
+    "urun_link": "cooler-master-masterbox-mb311l-600w-3x120mm-rgb-fanli-kasa.html"
+}, {
+    "slogan1": "Monitörlerde",
+    "slogan2": "Sepette %10 İndirim",
+    "link": "/monitorlerde-sepette-yuzde10-indirim",
+    "urun_ad": "Dell 21,5'' SE2219H HDMI IPS Monitör",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dell/thumb/TeoriV2-104852_small.jpg",
+    "urun_fiyat": "1.286",
+    "urun_link": "dell-21-5-se2219h-hdmi-ips-monitor.html"
+}, {
+    "slogan1": "Klavye ve Mouselarda",
+    "slogan2": "Sepette %10 İndirim",
+    "link": "/klavye-mouse-set",
+    "urun_ad": "Rampage KM-RX9 Siyah Usb  Q Klavye + Mouse Set",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/rampage/thumb/v2-89422_small.jpg",
+    "urun_fiyat": "219",
+    "urun_link": "everest-rampage-km-rx9-siyah-usb-q-klavye-mouse-set.html"
+}, {
+    "slogan1": "Network Ürünlerinde",
+    "slogan2": "Sepette %8 İndirim",
+    "link": "/network-urunleri/?stk=true",
+    "urun_ad": "TENDA V1200 300MBPS-867MBPS VDSL2 KABLOSUZ-AC 4 PORT ADSL2+ MODEM",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tenda/thumb/TeoriV2-101858_small.jpg",
+    "urun_fiyat": "449",
+    "urun_link": "tenda-v1200-300mbps-867mbps-vdsl2-kablosuz-ac-4-port-adsl2-modem.html"
+}, {
+    "slogan1": "Elektrikli Ev Aletlerinde",
+    "slogan2": "Sepette %10 İndirim",
+    "link": "/elektrikli-ev-aletleri/",
+    "urun_ad": "ROWENTA RQ3726TR COMPACT POWER CYCLONIC ELEKTRİKLİ SÜPÜRGE",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/rowenta/thumb/TeoriV2-106677_small.jpg",
+    "urun_fiyat": "699",
+    "urun_link": "rowenta-ro3726-compact-power-cyclonic-elektrikli-supurge.html"
+}, {
+    "slogan1": "Mutfak Ürünlerinde",
+    "slogan2": "Sepette %10 İndirim",
+    "link": "/mutfak-urunleri/",
+    "urun_ad": "GRUNDIG KM5860P FİLTRE KAHVE MAKİNESİ",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/grundig/thumb/TeoriV2-97855_small.jpg",
+    "urun_fiyat": "549",
+    "urun_link": "grundig-km5860p-filtre-kahve-makinesi.html"
+}, {
+    "slogan1": "Kişisel Bakım Ürünlerinde",
+    "slogan2": "Sepette %10 İndirim",
+    "link": "/kisisel-bakim-urunleri/?stk=true",
+    "urun_ad": "PHILIPS MG3720/15 3000 SERİSİ 7'Sİ1 ARADA ERKEK BAKIM KİTİ",
+    "urun_gorsel": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/v2-90868_small.jpg",
+    "urun_fiyat": "199",
+    "urun_link": "philips-mg3720-15-3000-serisi-7-si1-arada-erkek-bakim-kiti.html"
+}
